@@ -1,0 +1,7 @@
+C:\Users\oenea\Downloads\lab5\6_client\bin\Debug\6_client.exe.config
+C:\Users\oenea\Downloads\lab5\6_client\bin\Debug\6_client.exe
+C:\Users\oenea\Downloads\lab5\6_client\bin\Debug\6_client.pdb
+C:\Users\oenea\Downloads\lab5\6_client\obj\Debug\6_client.csproj.AssemblyReference.cache
+C:\Users\oenea\Downloads\lab5\6_client\obj\Debug\6_client.csproj.CoreCompileInputs.cache
+C:\Users\oenea\Downloads\lab5\6_client\obj\Debug\6_client.exe
+C:\Users\oenea\Downloads\lab5\6_client\obj\Debug\6_client.pdb

@@ -1,0 +1,7 @@
+C:\Users\oenea\Downloads\lab5\2\bin\Debug\2.exe.config
+C:\Users\oenea\Downloads\lab5\2\bin\Debug\2.exe
+C:\Users\oenea\Downloads\lab5\2\bin\Debug\2.pdb
+C:\Users\oenea\Downloads\lab5\2\obj\Debug\2.csproj.AssemblyReference.cache
+C:\Users\oenea\Downloads\lab5\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+C:\Users\oenea\Downloads\lab5\2\obj\Debug\2.exe
+C:\Users\oenea\Downloads\lab5\2\obj\Debug\2.pdb

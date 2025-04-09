@@ -1,0 +1,7 @@
+C:\Users\oenea\Downloads\lab5\3-4\bin\3-4.dll.config
+C:\Users\oenea\Downloads\lab5\3-4\bin\3-4.dll
+C:\Users\oenea\Downloads\lab5\3-4\bin\3-4.pdb
+C:\Users\oenea\Downloads\lab5\3-4\obj\Debug\3-4.csproj.AssemblyReference.cache
+C:\Users\oenea\Downloads\lab5\3-4\obj\Debug\3-4.csproj.CoreCompileInputs.cache
+C:\Users\oenea\Downloads\lab5\3-4\obj\Debug\3-4.dll
+C:\Users\oenea\Downloads\lab5\3-4\obj\Debug\3-4.pdb

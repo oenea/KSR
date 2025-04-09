@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "6_service1\\6_service1.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "6_service2\\6_service2.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "6_router\\6_router.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "6_client\\6_client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

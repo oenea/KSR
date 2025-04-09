@@ -1,0 +1,7 @@
+C:\Users\oenea\Downloads\lab5\6_router\bin\Debug\6_router.exe.config
+C:\Users\oenea\Downloads\lab5\6_router\bin\Debug\6_router.exe
+C:\Users\oenea\Downloads\lab5\6_router\bin\Debug\6_router.pdb
+C:\Users\oenea\Downloads\lab5\6_router\obj\Debug\6_router.csproj.AssemblyReference.cache
+C:\Users\oenea\Downloads\lab5\6_router\obj\Debug\6_router.csproj.CoreCompileInputs.cache
+C:\Users\oenea\Downloads\lab5\6_router\obj\Debug\6_router.exe
+C:\Users\oenea\Downloads\lab5\6_router\obj\Debug\6_router.pdb

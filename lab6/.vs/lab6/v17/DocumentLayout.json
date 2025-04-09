@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oenea\\Downloads\\lab5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AD1F3AB-FFF4-447D-BF64-5E639E83990C}|6_service1\\6_service1.csproj|c:\\users\\oenea\\downloads\\lab5\\6_service1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AD1F3AB-FFF4-447D-BF64-5E639E83990C}|6_service1\\6_service1.csproj|solutionrelative:6_service1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF69D25-D496-45C6-A7A3-17A5DD0AB0F3}|6_router\\6_router.csproj|c:\\users\\oenea\\downloads\\lab5\\6_router\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF69D25-D496-45C6-A7A3-17A5DD0AB0F3}|6_router\\6_router.csproj|solutionrelative:6_router\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C214272-A1F6-40DC-8ED6-361732DACA5A}|6_client\\6_client.csproj|C:\\Users\\oenea\\Downloads\\lab5\\6_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C214272-A1F6-40DC-8ED6-361732DACA5A}|6_client\\6_client.csproj|solutionrelative:6_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C6A169-5515-4FDC-ACFB-69B3E0C93CDE}|3-4\\3-4.csproj|C:\\Users\\oenea\\Downloads\\lab5\\3-4\\service.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C6A169-5515-4FDC-ACFB-69B3E0C93CDE}|3-4\\3-4.csproj|solutionrelative:3-4\\service.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C6A169-5515-4FDC-ACFB-69B3E0C93CDE}|3-4\\3-4.csproj|C:\\Users\\oenea\\Downloads\\lab5\\3-4\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74C6A169-5515-4FDC-ACFB-69B3E0C93CDE}|3-4\\3-4.csproj|solutionrelative:3-4\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0C7F493-AF89-4D6A-83C8-2D6898A6955B}|5\\5.csproj|c:\\users\\oenea\\downloads\\lab5\\5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0C7F493-AF89-4D6A-83C8-2D6898A6955B}|5\\5.csproj|solutionrelative:5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0AA9323-3EBE-4652-BCBD-EF5200CA1179}|2\\2.csproj|C:\\Users\\oenea\\Downloads\\lab5\\2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0AA9323-3EBE-4652-BCBD-EF5200CA1179}|2\\2.csproj|solutionrelative:2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D7B3B-972F-4DCC-BECD-22EAE583E6DF}|1\\1.csproj|C:\\Users\\oenea\\Downloads\\lab5\\1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FE5D7B3B-972F-4DCC-BECD-22EAE583E6DF}|1\\1.csproj|solutionrelative:1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|1||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D7B3B-972F-4DCC-BECD-22EAE583E6DF}|1\\1.csproj|C:\\Users\\oenea\\Downloads\\lab5\\1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE5D7B3B-972F-4DCC-BECD-22EAE583E6DF}|1\\1.csproj|solutionrelative:1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C6A169-5515-4FDC-ACFB-69B3E0C93CDE}|3-4\\3-4.csproj|c:\\users\\oenea\\downloads\\lab5\\3-4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{74C6A169-5515-4FDC-ACFB-69B3E0C93CDE}|3-4\\3-4.csproj|solutionrelative:3-4\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE5D7B3B-972F-4DCC-BECD-22EAE583E6DF}|1\\1.csproj|c:\\users\\oenea\\downloads\\lab5\\1\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\6_router\\Program.cs",
+              "RelativeDocumentMoniker": "6_router\\Program.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\6_router\\Program.cs",
+              "RelativeToolTip": "6_router\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:14:55.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\6_service1\\Program.cs",
+              "RelativeDocumentMoniker": "6_service1\\Program.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\6_service1\\Program.cs",
+              "RelativeToolTip": "6_service1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:13:22.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\5\\Program.cs",
+              "RelativeDocumentMoniker": "5\\Program.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\5\\Program.cs",
+              "RelativeToolTip": "5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:48:39.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\3-4\\Web.config",
+              "RelativeDocumentMoniker": "3-4\\Web.config",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\3-4\\Web.config",
+              "RelativeToolTip": "3-4\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-09T08:29:48.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.svc.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\3-4\\Service.svc.cs",
+              "RelativeDocumentMoniker": "3-4\\Service.svc.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\3-4\\Service.svc.cs",
+              "RelativeToolTip": "3-4\\Service.svc.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:06:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\2\\Program.cs",
+              "RelativeDocumentMoniker": "2\\Program.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\2\\Program.cs",
+              "RelativeToolTip": "2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:34:36.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\3-4\\IService.cs",
+              "RelativeDocumentMoniker": "3-4\\IService.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\3-4\\IService.cs",
+              "RelativeToolTip": "3-4\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:06:14.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\6_client\\Program.cs",
+              "RelativeDocumentMoniker": "6_client\\Program.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\6_client\\Program.cs",
+              "RelativeToolTip": "6_client\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:48:08.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "1",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\1\\1.csproj",
+              "RelativeDocumentMoniker": "1\\1.csproj",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\1\\1.csproj",
+              "RelativeToolTip": "1\\1.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-09T07:31:29.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\1\\App.config",
+              "RelativeDocumentMoniker": "1\\App.config",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\1\\App.config",
+              "RelativeToolTip": "1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-09T07:31:24.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oenea\\Downloads\\lab5\\1\\Program.cs",
+              "RelativeDocumentMoniker": "1\\Program.cs",
+              "ToolTip": "C:\\Users\\oenea\\Downloads\\lab5\\1\\Program.cs",
+              "RelativeToolTip": "1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T07:24:55.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

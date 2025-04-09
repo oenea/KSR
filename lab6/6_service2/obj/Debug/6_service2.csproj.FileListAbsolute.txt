@@ -1,0 +1,7 @@
+C:\Users\oenea\Downloads\lab5\6_service2\bin\Debug\6_service2.exe.config
+C:\Users\oenea\Downloads\lab5\6_service2\bin\Debug\6_service2.exe
+C:\Users\oenea\Downloads\lab5\6_service2\bin\Debug\6_service2.pdb
+C:\Users\oenea\Downloads\lab5\6_service2\obj\Debug\6_service2.csproj.AssemblyReference.cache
+C:\Users\oenea\Downloads\lab5\6_service2\obj\Debug\6_service2.csproj.CoreCompileInputs.cache
+C:\Users\oenea\Downloads\lab5\6_service2\obj\Debug\6_service2.exe
+C:\Users\oenea\Downloads\lab5\6_service2\obj\Debug\6_service2.pdb
